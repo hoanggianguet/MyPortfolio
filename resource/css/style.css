@@ -1,0 +1,19 @@
+.theme-bg-primary-darken {
+    background-color: #0a71c6;
+}
+
+show-icon li {
+    display: inline-block;
+}
+
+show-icon {
+    list-style: none;
+}
+
+.profile-image {
+    max-width: 240px;
+}
+
+.theme-bg-primary {
+    background-color: #41A4F5;
+}
